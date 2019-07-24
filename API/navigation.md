@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# EatsReady API documentation
 
 
 <!--
@@ -19,8 +19,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[USE CASES](pages/use_cases.md)
+[PAYMENT FLOWS](pages/payment_flows.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
